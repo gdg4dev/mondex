@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/mondex/static/css/main.5d29b0a2.chunk.css",
+    "main.js": "/mondex/static/js/main.d7fae8f7.chunk.js",
+    "main.js.map": "/mondex/static/js/main.d7fae8f7.chunk.js.map",
+    "runtime-main.js": "/mondex/static/js/runtime-main.52bd10d1.js",
+    "runtime-main.js.map": "/mondex/static/js/runtime-main.52bd10d1.js.map",
+    "static/js/2.b4309f00.chunk.js": "/mondex/static/js/2.b4309f00.chunk.js",
+    "static/js/2.b4309f00.chunk.js.map": "/mondex/static/js/2.b4309f00.chunk.js.map",
+    "index.html": "/mondex/index.html",
+    "precache-manifest.c49617dea9c7bb20fdda6ce6e5ff8917.js": "/mondex/precache-manifest.c49617dea9c7bb20fdda6ce6e5ff8917.js",
+    "service-worker.js": "/mondex/service-worker.js",
+    "static/css/main.5d29b0a2.chunk.css.map": "/mondex/static/css/main.5d29b0a2.chunk.css.map",
+    "static/js/2.b4309f00.chunk.js.LICENSE.txt": "/mondex/static/js/2.b4309f00.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.52bd10d1.js",
+    "static/js/2.b4309f00.chunk.js",
+    "static/css/main.5d29b0a2.chunk.css",
+    "static/js/main.d7fae8f7.chunk.js"
+  ]
+}
